@@ -3,113 +3,129 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
-  <img src="assets/header-dark.svg" alt="Hades the Third — Alireza Asgarpour — animation direction, worldbuilding and creative technology" width="100%" />
+  <img src="assets/header-dark.svg" alt="هادس سوم — علیرضا عسگرپور — کارگردانی انیمیشن، جهان‌سازی و فناوری خلاق" width="100%" />
 </picture>
 
 <br />
 
-[![Animated introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3600&pause=900&color=EF4B32&center=true&vCenter=true&width=780&height=50&lines=Animation+Director+%7C+Worldbuilder;Creative+Technologist+%7C+Open+Source+Maker;Where+storytelling+meets+intelligent+systems)](https://github.com/iAlirezaaa)
+<a href="https://github.com/iAlirezaaa/iAlirezaaa/blob/main/README.md"><b>English</b></a> &nbsp; | &nbsp; <b>فارسی</b>
 
-**I direct stories, design worlds, and build tools for people who create.**
+<h2 dir="rtl">هادس سوم | HADES THE THIRD</h2>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-EF4B32?style=for-the-badge&logo=githubpages&logoColor=white)](https://ialirezaaa.github.io/)
-[![Persian portfolio](https://img.shields.io/badge/PERSIAN%20%2F%20FA-292929?style=for-the-badge&logoColor=white)](https://ialirezaaa.github.io/fa/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-292929?style=for-the-badge&logo=linkedin&logoColor=white)](https://ae.linkedin.com/in/ialirezaaa)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-292929?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hades.3rd/)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-292929?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ialirezaaa)
+<p dir="rtl"><b>داستان‌ها را کارگردانی می‌کنم، جهان‌های تازه می‌سازم و ابزارهایی برای آفرینندگان توسعه می‌دهم.</b></p>
 
-</div>
-
----
-
-### The creator behind the realm
-
-I am **Alireza Asgarpour** — an animation director, visual storyteller, and creative technologist.
-
-My work connects **animation production, storytelling, worldbuilding, procedural tools, and agentic software**. I care about cinematic decisions and practical systems equally: tools should help creators think clearly, maintain continuity, and make better work.
-
-**HADES** is the creative realm. **HADES THE THIRD** is its creator identity. The work spans original stories, visual experiences, and independent software projects.
-
-> **Build worlds. Give ideas a form. Make the process more human.**
-
----
-
-### Selected projects
-
-Real public repositories from my GitHub account, with working project descriptions and current source code:
-
-| Project | What it explores |
-|:--|:--|
-| **[Second Brain OS](https://github.com/iAlirezaaa/second-brain-os)** | A local-first knowledge and memory workspace with agent tools, provenance and accountable workflows. |
-| **[Nodus](https://github.com/iAlirezaaa/nodus)** | A connected-thought workspace for branching ideas, nested projects and visual knowledge. |
-| **[Boardloom](https://github.com/iAlirezaaa/boardloom)** | A visual production board for organizing image assets, shots, references and tasks. |
-| **[Digital Ink](https://github.com/iAlirezaaa/typing-machine)** | A nostalgic, offline-capable typewriter for Persian and English. **[Try it](https://ialirezaaa.github.io/typing-machine/)** |
-| **[Veyra](https://github.com/iAlirezaaa/veyra-browser)** | A local-first, bilingual Chromium workspace for tabs, bookmarks and opt-in AI chat archiving. |
-| **[CozyClay](https://github.com/iAlirezaaa/CozyClay)** | Open-source previs: block a scene in a browser, plan camera and motion, then export guidance for AI video. |
-
-*Projects have different maturity levels. Some are actively developed prototypes, not finished commercial products. Their repositories document current capabilities and limitations.*
-
-<div align="center">
-
-[**Browse all public repositories**](https://github.com/iAlirezaaa?tab=repositories) · [**Visit the portfolio**](https://ialirezaaa.github.io/work/)
+<a href="https://ialirezaaa.github.io/fa/"><img alt="وب‌سایت فارسی" src="https://img.shields.io/badge/%D9%88%D8%A8%E2%80%8C%D8%B3%D8%A7%DB%8C%D8%AA-EF4B32?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+<a href="https://ae.linkedin.com/in/ialirezaaa"><img alt="لینکدین" src="https://img.shields.io/badge/LinkedIn-292929?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/hades.3rd/"><img alt="اینستاگرام" src="https://img.shields.io/badge/Instagram-292929?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://t.me/Ialirezaaa"><img alt="تلگرام" src="https://img.shields.io/badge/Telegram-292929?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 </div>
 
 ---
 
-### Areas of practice
+## دربارهٔ سازندهٔ این جهان
+
+<p dir="rtl">من <b>علیرضا عسگرپور</b> هستم؛ کارگردان انیمیشن، روایتگر تصویری و توسعه‌دهندهٔ فناوری‌های خلاق.</p>
+
+<p dir="rtl">کار من در نقطهٔ تلاقی <b>تولید انیمیشن، فیلم‌نامه‌نویسی، جهان‌سازی داستانی، ابزارهای سه‌بعدی، سیستم‌های هوشمند و نرم‌افزارهای خلاق</b> شکل می‌گیرد. هم به زبان سینما و کیفیت روایت اهمیت می‌دهم، هم به ابزارهایی که روند ساخت آثار را روشن‌تر، دقیق‌تر و قابل‌کنترل‌تر می‌کنند.</p>
+
+<p dir="rtl"><b>HADES</b> نام جهان و قلمرو خلاق من است و <b>HADES THE THIRD</b> هویت سازنده و فرمانروای کنونی آن. پروژه‌هایم از داستان و تصویر تا ابزارهای متن‌باز و محیط‌های تعاملی امتداد دارند.</p>
+
+<blockquote dir="rtl">جهان بساز. به ایده‌ها شکل بده. خلق‌کردن را انسانی‌تر کن.</blockquote>
+
+---
+
+## پروژه‌های منتخب
+
+<p dir="rtl">چند نمونه از ریپوهای عمومی من در GitHub:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th align="right">پروژه</th>
+      <th align="right">کاربرد و ایدهٔ اصلی</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="right"><a href="https://github.com/iAlirezaaa/second-brain-os"><b>Second Brain OS</b></a></td>
+      <td align="right" dir="rtl">محیط دانش و حافظهٔ پایدار، با رویکرد محلی‌محور، ابزارهای ایجنتی، ثبت منبع و روندهای قابل‌پیگیری.</td>
+    </tr>
+    <tr>
+      <td align="right"><a href="https://github.com/iAlirezaaa/nodus"><b>Nodus</b></a></td>
+      <td align="right" dir="rtl">محیط ایده‌پردازی و تفکر شبکه‌ای برای ارتباط مفاهیم، شاخه‌بندی و مدیریت پروژه‌های تو‌در‌تو.</td>
+    </tr>
+    <tr>
+      <td align="right"><a href="https://github.com/iAlirezaaa/boardloom"><b>Boardloom</b></a></td>
+      <td align="right" dir="rtl">بورد بصری تولید برای مدیریت تصاویر، شات‌ها، رفرنس‌ها و وظایف در پروژه‌های خلاق.</td>
+    </tr>
+    <tr>
+      <td align="right"><a href="https://github.com/iAlirezaaa/typing-machine"><b>Digital Ink</b></a></td>
+      <td align="right" dir="rtl">ماشین تحریر دیجیتال با حال‌وهوای نوستالژیک، پشتیبانی از فارسی و انگلیسی و امکان کار آفلاین؛ <a href="https://ialirezaaa.github.io/typing-machine/">نسخهٔ آنلاین</a>.</td>
+    </tr>
+    <tr>
+      <td align="right"><a href="https://github.com/iAlirezaaa/veyra-browser"><b>Veyra</b></a></td>
+      <td align="right" dir="rtl">محیط مرورگر محلی‌محور و دوزبانه برای سامان‌دهی تب‌ها، نشانک‌ها و آرشیو انتخابی گفت‌وگوهای هوش مصنوعی.</td>
+    </tr>
+    <tr>
+      <td align="right"><a href="https://github.com/iAlirezaaa/CozyClay"><b>CozyClay</b></a></td>
+      <td align="right" dir="rtl">ابزار متن‌باز پیش‌تولید سه‌بعدی برای چیدمان صحنه، برنامه‌ریزی حرکت و دوربین و تهیهٔ خروجی راهنما برای تولید ویدئو با هوش مصنوعی.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p dir="rtl"><i>سطح بلوغ پروژه‌ها یکسان نیست؛ بعضی از آن‌ها نمونه‌های اولیه یا در حال توسعه‌اند. برای آگاهی از وضعیت واقعی هر پروژه، README همان مخزن را ببینید.</i></p>
+
+<p align="center"><a href="https://github.com/iAlirezaaa?tab=repositories"><b>مشاهدهٔ تمام ریپوهای عمومی</b></a> · <a href="https://ialirezaaa.github.io/fa/work/"><b>نمونه‌کارها</b></a></p>
+
+---
+
+## حوزه‌های تخصصی و ابزارها
 
 <p align="center">
-<img src="https://img.shields.io/badge/ANIMATION%20DIRECTION-111111?style=flat-square" alt="Animation direction" />
-<img src="https://img.shields.io/badge/WORLDBUILDING-111111?style=flat-square" alt="Worldbuilding" />
-<img src="https://img.shields.io/badge/SCREENWRITING-111111?style=flat-square" alt="Screenwriting" />
-<img src="https://img.shields.io/badge/3D%20%26%20PREVIS-111111?style=flat-square" alt="3D and previs" />
-<img src="https://img.shields.io/badge/CREATIVE%20TOOLS-EF4B32?style=flat-square" alt="Creative tools" />
-<img src="https://img.shields.io/badge/AGENTIC%20SYSTEMS-111111?style=flat-square" alt="Agentic systems" />
+<img alt="کارگردانی انیمیشن" src="https://img.shields.io/badge/Animation%20Direction-111111?style=flat-square" />
+<img alt="جهان‌سازی" src="https://img.shields.io/badge/Worldbuilding-111111?style=flat-square" />
+<img alt="فیلم‌نامه‌نویسی" src="https://img.shields.io/badge/Screenwriting-111111?style=flat-square" />
+<img alt="پیش‌تولید سه‌بعدی" src="https://img.shields.io/badge/3D%20%26%20Previs-111111?style=flat-square" />
+<img alt="ابزارهای خلاق" src="https://img.shields.io/badge/Creative%20Tools-EF4B32?style=flat-square" />
+<img alt="سیستم‌های ایجنتی" src="https://img.shields.io/badge/Agentic%20Systems-111111?style=flat-square" />
 </p>
 
-**Production & 3D:** Maya · ZBrush · Unreal Engine · Nuke · cinematography and previz
+<p dir="rtl"><b>تولید انیمیشن و سه‌بعدی:</b> Maya، ZBrush، Unreal Engine، Nuke، فیلم‌برداری و پیش‌تولید بصری (Previs)</p>
 
-**Creative engineering:** Python · JavaScript / TypeScript · React · Three.js · local-first tooling · AI-assisted workflows
+<p dir="rtl"><b>مهندسی خلاق:</b> Python، JavaScript / TypeScript، React، Three.js، ابزارهای محلی‌محور و فرایندهای مبتنی بر هوش مصنوعی</p>
 
 ---
 
-### GitHub activity
+## فعالیت در GitHub
 
 <div align="center">
-
-<a href="https://github.com/iAlirezaaa">
-  <img src="https://github-readme-stats.vercel.app/api?username=iAlirezaaa&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF4B32&icon_color=EF4B32&text_color=808080&rank_icon=github" alt="Live GitHub summary for iAlirezaaa" width="57%" />
-</a>
-
-<br />
-
-[![GitHub activity streak](https://streak-stats.demolab.com?user=iAlirezaaa&theme=transparent&hide_border=true&ring=EF4B32&fire=EF4B32&currStreakLabel=EF4B32)](https://github.com/iAlirezaaa?tab=overview)
-
-<br />
-
-![Profile views](https://komarev.com/ghpvc/?username=iAlirezaaa&label=PROFILE%20VIEWS&color=EF4B32&style=flat-square)
-
+  <a href="https://github.com/iAlirezaaa">
+    <img src="https://github-readme-stats.vercel.app/api?username=iAlirezaaa&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=EF4B32&amp;icon_color=EF4B32&amp;text_color=808080&amp;rank_icon=github" alt="آمار عمومی فعالیت حساب GitHub علیرضا عسگرپور" width="57%" />
+  </a>
+  <br />
+  <a href="https://github.com/iAlirezaaa?tab=overview">
+    <img src="https://streak-stats.demolab.com?user=iAlirezaaa&amp;theme=transparent&amp;hide_border=true&amp;ring=EF4B32&amp;fire=EF4B32&amp;currStreakLabel=EF4B32" alt="نمودار پیوستگی فعالیت GitHub" />
+  </a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=iAlirezaaa&amp;label=PROFILE%20VIEWS&amp;color=EF4B32&amp;style=flat-square" alt="تعداد بازدیدهای پروفایل" />
 </div>
 
-*Activity widgets use third-party public endpoints and may occasionally be unavailable; [GitHub's contribution history](https://github.com/iAlirezaaa?tab=overview) remains the source of truth.*
+<p dir="rtl"><i>کارت‌های آماری به سرویس‌های عمومی شخص ثالث وابسته‌اند و ممکن است گاهی بارگذاری نشوند. مرجع اصلی فعالیت‌ها <a href="https://github.com/iAlirezaaa?tab=overview">صفحهٔ مشارکت‌های GitHub</a> است.</i></p>
 
 ---
 
-### In Persian · فارسی
+## ارتباط با من
 
-**علیرضا عسگرپور** — کارگردان انیمیشن، طراح جهان داستانی و توسعه‌دهندهٔ ابزارهای خلاق.
-
-«هادس» نام یک جهان خلاق است و «هادس سوم» هویت سازندهٔ آن. در اینجا پروژه‌هایی از روایت و تولید انیمیشن تا ابزارهای متن‌باز، هوش مصنوعی و نرم‌افزارهای خلاق را توسعه می‌دهم.
-
-[وب‌سایت فارسی](https://ialirezaaa.github.io/fa/) · [گیت‌هاب](https://github.com/iAlirezaaa) · [کانال خبری AirisFeed](https://t.me/AirisFeed)
+<p dir="rtl"><a href="https://ialirezaaa.github.io/fa/">وب‌سایت شخصی</a> · <a href="https://ae.linkedin.com/in/ialirezaaa">لینکدین</a> · <a href="https://www.instagram.com/hades.3rd/">اینستاگرام</a> · <a href="https://t.me/Ialirezaaa">تلگرام</a> · <a href="https://t.me/AirisFeed">کانال خبری AirisFeed</a></p>
 
 ---
 
 <div align="center">
-
-<sub>HADES THE THIRD · Story / Systems / Worlds</sub>
-<br />
-<sub>Vermilion accent #EF4B32 · Custom typographic headers; not a replacement for the original HADES brand marks.</sub>
-
+  <sub>HADES THE THIRD · STORY / SYSTEMS / WORLDS</sub>
+  <br />
+  <sub>هویت مستقل هادس · رنگ شاخص Vermilion #EF4B32 · سربرگ تایپوگرافیک، نه جایگزین لوگوی اصلی</sub>
+  <br />
+  <br />
+  <a href="https://github.com/iAlirezaaa/iAlirezaaa/blob/main/README.md">Read in English</a>
 </div>
