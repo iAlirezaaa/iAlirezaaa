@@ -6,6 +6,8 @@
   <img src="assets/header-dark.svg" alt="Hades the Third — Alireza Asgarpour — animation direction, worldbuilding and creative technology" width="100%" />
 </picture>
 
+<p align="center"><b>English</b> &nbsp; | &nbsp; <a href="README.fa.md"><b>فارسی</b></a> &nbsp; · &nbsp; <a href="https://github.com/iAlirezaaa/iAlirezaaa/tree/fa">Persian branch (fa)</a></p>
+
 <br />
 
 [![Animated introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3600&pause=900&color=EF4B32&center=true&vCenter=true&width=780&height=50&lines=Animation+Director+%7C+Worldbuilder;Creative+Technologist+%7C+Open+Source+Maker;Where+storytelling+meets+intelligent+systems)](https://github.com/iAlirezaaa)
