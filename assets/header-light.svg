@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="348" viewBox="0 0 1280 348" role="img" aria-labelledby="title desc">
+<title id="title">Hades the Third — Alireza Asgarpour</title>
+<desc id="desc">Typographic profile banner for an animation director, worldbuilder, and creative technologist. Not a replacement brand logo.</desc>
+<defs>
+ <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#F4F0E8"/><stop offset="1" stop-color="#EDE6DA"/></linearGradient>
+ <linearGradient id="linefade" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#C73523" stop-opacity=".95"/><stop offset="1" stop-color="#C73523" stop-opacity="0"/></linearGradient>
+ <clipPath id="frame"><rect x="1" y="1" width="1278" height="346" rx="7"/></clipPath>
+</defs>
+<rect width="1280" height="348" rx="8" fill="url(#paper)" />
+<g clip-path="url(#frame)">
+  <g fill="none" stroke="#655B53" stroke-opacity=".12" stroke-width="1">
+   <path d="M0 68H1280M0 280H1280M0 310H1280M866 0V348" />
+   <path d="M892 0V348M930 0V348M968 0V348M1006 0V348M1044 0V348M1082 0V348M1120 0V348M1158 0V348M1196 0V348M1234 0V348" />
+   <path d="M870 36H1280M870 72H1280M870 108H1280M870 144H1280M870 180H1280M870 216H1280M870 252H1280M870 288H1280M870 324H1280" />
+  </g>
+  <path d="M0 0H1280V348H0Z" fill="none" stroke="#B8AA96" stroke-opacity=".42" stroke-width="2"/>
+  <path d="M32 34H202" stroke="url(#linefade)" stroke-width="4"/>
+  <path d="M1248 314H1078" stroke="#C73523" stroke-opacity=".85" stroke-width="3"/>
+  <path d="M32 313H90M32 313V279M1248 35H1190M1248 35V69" stroke="#C73523" stroke-width="2" fill="none"/>
+  <text x="67" y="50" fill="#655B53" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4">CREATIVE UNIVERSE</text>
+  <rect x="32" y="83" width="4" height="159" fill="#C73523"/>
+  <text x="66" y="173" fill="#161616" font-family="Georgia, 'Times New Roman', serif" font-size="111" font-weight="bold" letter-spacing="5">HADES</text>
+  <text x="70" y="231" fill="#161616" font-family="Georgia, 'Times New Roman', serif" font-size="60" font-weight="normal" letter-spacing="9">THE THIRD</text>
+  <text x="72" y="268" fill="#655B53" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="4.4">ALIREZA ASGARPOUR</text>
+  <text x="72" y="302" fill="#655B53" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.7">ANIMATION DIRECTION  /  WORLD BUILDING  /  CREATIVE TECHNOLOGY</text>
+  <g fill="none" stroke="#B8AA96" stroke-width="1.2">
+   <circle cx="1069" cy="174" r="123" stroke-opacity=".4"/>
+   <circle cx="1069" cy="174" r="101" stroke-opacity=".66"/>
+   <circle cx="1069" cy="174" r="66" stroke-opacity=".82"/>
+   <circle cx="1069" cy="174" r="39" stroke-opacity=".75"/>
+   <path d="M929 174H1209M1069 34V314" stroke-opacity=".56"/>
+   <path d="M967 102L1171 246M967 246L1171 102" stroke-opacity=".3"/>
+   <path d="M953 174A116 116 0 0 1 1069 58" stroke="#C73523" stroke-width="5"/>
+   <path d="M1185 174A116 116 0 0 1 1069 290" stroke="#C73523" stroke-opacity=".7" stroke-width="4"/>
+  </g>
+  <circle cx="1069" cy="174" r="8" fill="#C73523"/>
+  <rect x="1063" y="66" width="12" height="3" rx="1.5" fill="#C73523"/>
+  <rect x="1063" y="278" width="12" height="3" rx="1.5" fill="#C73523"/>
+  <text x="899" y="42" fill="#655B53" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">FRAME / 003</text>
+  <text x="1155" y="311" fill="#655B53" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">EDITION 03</text>
+  <path d="M66 327H855" stroke="#B8AA96" stroke-opacity=".38"/>
+  <rect x="66" y="323" width="42" height="4" fill="#C73523"/>
+</g>
+</svg>
